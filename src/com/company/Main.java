@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         run();
     }
-
+//Mattias je memer
     private static void run() {
         while(isRunning) {
             System.out.println("Výběr:");
