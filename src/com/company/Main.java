@@ -12,7 +12,7 @@ public class Main {
 
     private static void run() {
         while(isRunning) {
-            System.out.println("Výběr:");
+            System.out.println("LolVýběr:");
             System.out.println("1. Dec-Bin");
             System.out.println("2. Bin-Dec");
             System.out.println("3. Dec-Hex");
