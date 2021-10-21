@@ -12,12 +12,12 @@ public class Main {
 
     private static void run() {
         while(isRunning) {
-            System.out.println("Výběr:");
+            System.out.println("Výbdfsfěr:");
             System.out.println("1. Dec-Bin");
-            System.out.println("2. Bin-Dec");
+            System.out.println("2. Bin-Decdsas");
             System.out.println("3. Dec-Hex");
             System.out.println("4. Hex-Dec");
-            System.out.println("5. Konec programu");
+            System.out.println("5. Konec prsdasdasogramu");
             switch (Integer.parseInt(sc.nextLine())) {
                 case 1 -> convertDecToBin();
                 case 2 -> convertBinToDec();
@@ -25,7 +25,7 @@ public class Main {
                 case 4 -> convertHexToDec();
                 case 5 -> {
                     isRunning = false;
-                    System.out.println("Program se ukončuje");
+                    System.out.println("Program se ukončujefdsfsf");
                 }
             }
         }
