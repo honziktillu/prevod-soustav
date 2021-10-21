@@ -32,7 +32,7 @@ public class Main {
     }
 
     private static void convertDecToBin() {
-        System.out.println("Zadejte cislo v DEC");
+        System.out.println("Zadejte cislo v DECimalu more");
         System.out.println(Integer.toBinaryString(Integer.parseInt(sc.nextLine())));
     }
 
