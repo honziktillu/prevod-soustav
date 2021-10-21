@@ -25,7 +25,7 @@ public class Main {
                 case 4 -> convertHexToDec();
                 case 5 -> {
                     isRunning = false;
-                    System.out.println("Program se ukončuje");
+                    System.out.println("Program se ukončuje xtaae ersert ");
                 }
             }
         }
