@@ -17,7 +17,7 @@ public class Main {
             System.out.println("2. Bin-Dec");
             System.out.println("3. Dec-Hex");
             System.out.println("4. Hex-Dec");
-            System.out.println("5. Konec programu");
+            System.out.println("5. Exit");
             switch (Integer.parseInt(sc.nextLine())) {
                 case 1 -> convertDecToBin();
                 case 2 -> convertBinToDec();
